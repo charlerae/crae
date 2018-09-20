@@ -1,0 +1,6 @@
+/* Adding Oswald font from Google. Changing font color to black and weight to bold. Giving the whole background a light blue color  */
+body{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    background-color: rgb(92, 165, 233);
+}
